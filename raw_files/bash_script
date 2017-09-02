@@ -1,0 +1,35 @@
+# First, create repo on GitHub, then execute:
+
+cp ./raw_files/united_states_* ./
+mv united_states_constitution_0_preamble.md 0_preamble.md
+mv united_states_constitution_1_article_i.md 1_article_i.md
+mv united_states_constitution_2_article_ii.md 2_article_ii.md
+mv united_states_constitution_3_article_iii.md 3_article_iii.md
+mv united_states_constitution_4_article_iv.md 4_article_iv.md
+mv united_states_constitution_5_article_v.md 5_article_v.md
+mv united_states_constitution_6_article_vi.md 6_article_vi.md
+mv united_states_constitution_7_article_vii.md 7_article_vii.md
+git add *
+git commit -m "United States constitution"
+git push
+
+# Create branch on GitHub called "confederate_constitution", then execute:
+
+git pull
+git checkout confederate_constitution
+rm *article_*
+rm *preamble*
+cp ./raw_files/confederate_states_* ./
+mv confederate_states_constitution_0_preamble.md 0_preamble.md
+mv confederate_states_constitution_1_article_i.md 1_article_i.md
+mv confederate_states_constitution_2_article_ii.md 2_article_ii.md
+mv confederate_states_constitution_3_article_iii.md 3_article_iii.md
+mv confederate_states_constitution_4_article_iv.md 4_article_iv.md
+mv confederate_states_constitution_5_article_v.md 5_article_v.md
+mv confederate_states_constitution_6_article_vi.md 6_article_vi.md
+mv confederate_states_constitution_7_article_vii.md 7_article_vii.md
+git add *
+git commit -m "Comparison of United States and Confederate States constitutions"
+git push
+
+# Lastly raw_files accordingly
