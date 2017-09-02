@@ -1,37 +1,25 @@
 # article vii
 
-the ratification of the conventions of nine states, shall be sufficient for the establishment of this constitution between the states so ratifying the same.
+the ratification of the conventions of five states, shall be sufficient for the establishment of this constitution between the states so ratifying the same.
 
-done in convention by the unanimous consent of the states present the seventeenth day of september in the year of our lord one thousand seven hundred and eighty seven and of the independence of the united states of america the twelfth. in witness whereof we have hereunto subscribed our names,
+when five states shall have ratified this constitution, in the manner before specified, the congress under the provisional constitution shall prescribe the time for holding the election of president and vice president; and for the meeting of the electoral college; and for counting the votes, and inaugurating the president. they shall, also, prescribe the time for holding the first election of members of congress under this constitution, and the time for assembling the same. until the assembling of such congress, the congress under the provisional constitution shall continue to exercise the legislative powers granted them; not extending beyond the time limited by the constitution of the provisional government.
+
+adopted unanimously by the congress of the confederate states of south carolina, georgia, florida, alabama, mississippi, louisiana, and texas, sitting in convention at the capitol, the city of montgomery, ala., on the eleventh day of march, in the year eighteen hundred and sixty-one.
 
 ## signed
 
-go. washington-
+howell cobb, president of the congress.
 
-presidt and deputy from virginia
+south carolina: r. barnwell rhett, c. g. memminger, wm. porcher miles, james chesnut, jr., r. w. barnwell, william w. boyce, lawrence m. keitt, t. j. withers.
 
-new hampshire: john langdon, nicholas gilman.
+georgia: francis s. bartow, martin j. crawford, benjamin h. hill, thos. r. r. cobb.
 
-massachusetts: nathaniel gorham, rufus king.
+florida: jackson morton, j. patton anderson, jas. b. owens.
 
-connecticut: wm. saml. johnson, roger sherman.
+alabama: richard w. walker, robt. h. smith, colin j. mcrae, william p. chilton, stephen f. hale, david p. lewis, tho. fearn, jno. gill shorter, j. l. m. curry.
 
-new york: alexander hamilton.
+mississippi: alex. m. clayton, james t. harrison, william s. barry, w. s. wilson, walker brooke, w. p. harris, j. a. p. campbell.
 
-new jersey: wil: livingston, david brearley, wm. paterson, jona. dayton.
+louisiana: alex. de clouet, c. m. conrad, duncan f. kenner, henry marshall.
 
-pennsylvania: b. franklin, robt. morris, tho: fitzsimons, james wilson, thomas mifflin, geo. clymer, jared ingersoll, gouv: morris.
-
-delaware: geo: read, john dickinson, jaco: broom, gunning bedford, jun'r, richard bassett.
-
-maryland: james m'henry, danl carroll, dan: of st. thos. jenifer.
-
-virginia: john blair, james madison, jr.
-
-north carolina: wm. blount, hu. williamson, rich’d dobbs spaight.
-
-south carolina: j. rutledge, charles pinckney, charles cotesworth pinckney, pierce butler.
-
-georgia william: few, abr. baldwin
-
-attest: william jackson, secretary.
+texas: john hemphill, thomas n. waul, john h. reagan, williamson s. oldham, louis t. wigfall, john gregg, william beck ochiltree.
