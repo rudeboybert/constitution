@@ -1,0 +1,1 @@
+we the people of the united states, in order to form a more perfect union, establish justice, insure domestic tranquility, provide for the common defence, promote the general welfare, and secure the blessings of liberty to ourselves and our posterity, do ordain and establish this constitution for the united states of america.
