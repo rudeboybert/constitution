@@ -7,7 +7,7 @@ on March 11, 1861
 ## Side-by-side comparison
 
 Click
-[here](https://github.com/rudeboybert/constitution/pull/1/files?diff=split).
+[here](https://github.com/rudeboybert/constitution/pull/1/commits/ef9205e02e35e25e87df78f603b955aa5d10e6b6?utf8=%E2%9C%93&diff=split).
 For Article I comparison click on “Load
     diff”.
 
