@@ -3,10 +3,14 @@ title: "A comparison of the United States and Confederate States constitutions o
 output: github_document
 ---
 
-Click [here](https://github.com/rudeboybert/constitution/pull/1/files?diff=split).
-
 ![](united_states_seal.png)
 ![](confederate_states_seal.png)
+
+## Side-by-side comparison
+
+Click [here](https://github.com/rudeboybert/constitution/pull/1/files?diff=split). For Article I comparison click on "Load diff".
+
+## Notes
 
 Sources:
 
